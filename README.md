@@ -38,3 +38,16 @@ Apply everything to build, document, and present your own AI project.
 - [ ] Project report (sections: motivation → future work)
 - [ ] Slideshow presentation (same sections as report)
 - [ ] Demo video (walk through slides + live code demo)
+
+
+### Sections in presentation and report: 
+1. motivation 
+2. problem statement identified and trying to solve
+3. previous solutions already present in the Internet 
+4. what are the gaps and challenges in previous solutions that my approach need to solve 
+5. what is my proposed solution
+6. how does it work 
+7. experimental results 
+8. advantages of my work 
+9. limitations of my work 
+10. future work 
